@@ -22,7 +22,7 @@
 * A. retroespectivo : Es un enfoque descriptivo que revisa acciones pasadas, con el objetivo de llegar a conclusiones veraces y entender el porqué de algunas situaciones.
 
 ### Datos históricos.
-Se pueden utilizar para crear el modelo, constantemente se dividirán los datos en :
+Se pueden utilizar para crear el modelo, constantemente se dividirán los datos( Ley de pareto) en :
 
 * Entrenamiento ( 80%)
 * Validación (20%)

@@ -2,6 +2,9 @@
 
 1. Enmarcar el problema (Hacerse las preguntas adecuadas).
 
+Cuál es el objetivo de la empresa, qué queremos estimar ? 
+
+
 2.  Adquirir y preparar datos(Qué información es relevante, limpiar y filtrar datos para su análisis).
 
 3.  Explorar los datos (Visualizar datos,localizar gráficos de posibles tendencias o patrones).
