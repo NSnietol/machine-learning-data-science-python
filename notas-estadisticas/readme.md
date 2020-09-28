@@ -1,0 +1,5 @@
+
+
+Covarianza
+Varianza
+Media
